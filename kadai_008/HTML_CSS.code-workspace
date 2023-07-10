@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../HTML_CSS"
+		},
+		{
+			"path": "../HTML_CSS/form.html"
+		},
+		{
+			"path": "../HTML_CSS/layout.html"
+		},
+		{
+			"path": "../HTML_CSS/audio-tag.html"
+		},
+		{
+			"path": "../HTML_CSS/video-tag.html"
+		},
+		{
+			"path": "../HTML_CSS/iframe-tag.html"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
